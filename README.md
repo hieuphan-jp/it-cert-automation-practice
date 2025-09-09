@@ -1,6 +1,5 @@
-# Google IT Automation with Python Professional Certificate - Practice files
-
-This is for practicing Pull-Request and Forking
+#This is for practicing Pull-Request and Forking
+Google IT Automation with Python Professional Certificate - Practice files
 
 This repository contains the practice files used throughout the courses that are
 part of the Google IT Automation with Python Professional Certificate
